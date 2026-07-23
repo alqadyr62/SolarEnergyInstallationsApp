@@ -1,0 +1,616 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|c:\\users\\ketaro\\source\\repos\\omranapp\\omranapp\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewcombinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewcombinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewcombinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewcombinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewcustomeramount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewcustomeramount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewinstallaionofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewinstallaionofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewinstallaionofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewinstallaionofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\combinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\combinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\combinationcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\combinationcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewcustomeramount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewcustomeramount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\inputforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\inputforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\inputforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\inputforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\customercul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\customercul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\customercul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\customercul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\combinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\combinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\outputforcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\outputforcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\storehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\storehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\storehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\storehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\combinationcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\combinationcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\outputforcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\outputforcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\addingnewcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\addingnewcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\inoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\inoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\inoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\inoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|C:\\Users\\Ketaro\\source\\repos\\OmranApp\\omranapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866FFF10-598F-4469-AA14-794143DBC77D}|OmranApp\\OmranApp.csproj|solutionrelative:omranapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 450,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "input.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\input.cs",
+              "RelativeDocumentMoniker": "OmranApp\\input.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\input.cs",
+              "RelativeToolTip": "OmranApp\\input.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwG0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:11:36.024Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "addingNewCustomerAmount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomerAmount.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewCustomerAmount.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomerAmount.cs [Design]",
+              "RelativeToolTip": "OmranApp\\addingNewCustomerAmount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:21:50.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addingNewCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomer.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewCustomer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomer.cs [Design]",
+              "RelativeToolTip": "OmranApp\\addingNewCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:42:38.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addingNewCombinations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCombinations.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewCombinations.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCombinations.cs [Design]",
+              "RelativeToolTip": "OmranApp\\addingNewCombinations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:40:43.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addingNewCombinations.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCombinations.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewCombinations.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCombinations.cs",
+              "RelativeToolTip": "OmranApp\\addingNewCombinations.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:49:51.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "output.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\output.cs",
+              "RelativeDocumentMoniker": "OmranApp\\output.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\output.cs [Design]",
+              "RelativeToolTip": "OmranApp\\output.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:22:11.657Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addingNewInstallaionOfficer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewInstallaionOfficer.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewInstallaionOfficer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewInstallaionOfficer.cs [Design]",
+              "RelativeToolTip": "OmranApp\\addingNewInstallaionOfficer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:35:40.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "output.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\output.cs",
+              "RelativeDocumentMoniker": "OmranApp\\output.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\output.cs",
+              "RelativeToolTip": "OmranApp\\output.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:22:14.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addingNewUnit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewUnit.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewUnit.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewUnit.cs [Design]",
+              "RelativeToolTip": "OmranApp\\addingNewUnit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:34:10.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addingNewItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewItem.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewItem.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewItem.cs [Design]",
+              "RelativeToolTip": "OmranApp\\addingNewItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:04:22.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "addingNewItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewItem.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewItem.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewItem.cs",
+              "RelativeToolTip": "OmranApp\\addingNewItem.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAswIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:05:03.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "addingNewUnit.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewUnit.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewUnit.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewUnit.cs",
+              "RelativeToolTip": "OmranApp\\addingNewUnit.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAYwGAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:45:00.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "input.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\input.cs",
+              "RelativeDocumentMoniker": "OmranApp\\input.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\input.cs [Design]",
+              "RelativeToolTip": "OmranApp\\input.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:52:42.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "addingNewInstallaionOfficer.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewInstallaionOfficer.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewInstallaionOfficer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewInstallaionOfficer.cs",
+              "RelativeToolTip": "OmranApp\\addingNewInstallaionOfficer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwDMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:44:58.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "combinations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\combinations.cs",
+              "RelativeDocumentMoniker": "OmranApp\\combinations.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\combinations.cs [Design]",
+              "RelativeToolTip": "OmranApp\\combinations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:35:13.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "combinationCul.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\combinationCul.cs",
+              "RelativeDocumentMoniker": "OmranApp\\combinationCul.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\combinationCul.cs [Design]",
+              "RelativeToolTip": "OmranApp\\combinationCul.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:10:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "addingNewCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomer.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewCustomer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomer.cs",
+              "RelativeToolTip": "OmranApp\\addingNewCustomer.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwFEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:58:32.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "addingNewCustomerAmount.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomerAmount.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewCustomerAmount.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomerAmount.cs",
+              "RelativeToolTip": "OmranApp\\addingNewCustomerAmount.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAGYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:23:45.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "inputForCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\inputForCustomer.cs",
+              "RelativeDocumentMoniker": "OmranApp\\inputForCustomer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\inputForCustomer.cs",
+              "RelativeToolTip": "OmranApp\\inputForCustomer.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAwGwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:20:40.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "inputForCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\inputForCustomer.cs",
+              "RelativeDocumentMoniker": "OmranApp\\inputForCustomer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\inputForCustomer.cs [Design]",
+              "RelativeToolTip": "OmranApp\\inputForCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:09:07.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "customerCul.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\customerCul.cs",
+              "RelativeDocumentMoniker": "OmranApp\\customerCul.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\customerCul.cs [Design]",
+              "RelativeToolTip": "OmranApp\\customerCul.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:35:14.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "customerCul.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\customerCul.cs",
+              "RelativeDocumentMoniker": "OmranApp\\customerCul.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\customerCul.cs",
+              "RelativeToolTip": "OmranApp\\customerCul.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:34:22.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "customers.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\customers.cs",
+              "RelativeDocumentMoniker": "OmranApp\\customers.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\customers.cs",
+              "RelativeToolTip": "OmranApp\\customers.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAqwIUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:31:32.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "combinations.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\combinations.cs",
+              "RelativeDocumentMoniker": "OmranApp\\combinations.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\combinations.cs",
+              "RelativeToolTip": "OmranApp\\combinations.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwE0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:29:02.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\customers.cs",
+              "RelativeDocumentMoniker": "OmranApp\\customers.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\customers.cs [Design]",
+              "RelativeToolTip": "OmranApp\\customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:33:51.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "outputForCom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\outputForCom.cs",
+              "RelativeDocumentMoniker": "OmranApp\\outputForCom.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\outputForCom.cs [Design]",
+              "RelativeToolTip": "OmranApp\\outputForCom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:38:54.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Storehouse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Storehouse.cs",
+              "RelativeDocumentMoniker": "OmranApp\\Storehouse.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Storehouse.cs [Design]",
+              "RelativeToolTip": "OmranApp\\Storehouse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:30:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Storehouse.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Storehouse.cs",
+              "RelativeDocumentMoniker": "OmranApp\\Storehouse.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Storehouse.cs",
+              "RelativeToolTip": "OmranApp\\Storehouse.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAuwH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:30:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "combinationCul.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\combinationCul.cs",
+              "RelativeDocumentMoniker": "OmranApp\\combinationCul.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\combinationCul.cs",
+              "RelativeToolTip": "OmranApp\\combinationCul.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswE8AAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:10:45.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "outputForCom.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\outputForCom.cs",
+              "RelativeDocumentMoniker": "OmranApp\\outputForCom.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\outputForCom.cs",
+              "RelativeToolTip": "OmranApp\\outputForCom.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:39:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Master.cs",
+              "RelativeDocumentMoniker": "OmranApp\\Master.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Master.cs",
+              "RelativeToolTip": "OmranApp\\Master.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAwIsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:04:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Master.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Master.cs",
+              "RelativeDocumentMoniker": "OmranApp\\Master.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Master.cs [Design]",
+              "RelativeToolTip": "OmranApp\\Master.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:01:23.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "addingNewCustomer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "OmranApp\\addingNewCustomer.Designer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\addingNewCustomer.Designer.cs",
+              "RelativeToolTip": "OmranApp\\addingNewCustomer.Designer.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAlwAEBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:49:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "inoutmanager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\inoutmanager.cs",
+              "RelativeDocumentMoniker": "OmranApp\\inoutmanager.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\inoutmanager.cs [Design]",
+              "RelativeToolTip": "OmranApp\\inoutmanager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:09:58.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "inoutmanager.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\inoutmanager.cs",
+              "RelativeDocumentMoniker": "OmranApp\\inoutmanager.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\inoutmanager.cs",
+              "RelativeToolTip": "OmranApp\\inoutmanager.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAgwJQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:30:54.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Form1.cs",
+              "RelativeDocumentMoniker": "OmranApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Form1.cs",
+              "RelativeToolTip": "OmranApp\\Form1.cs",
+              "ViewState": "AQIAACEAAACAMDMzMzMlwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:36:45.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Form1.cs",
+              "RelativeDocumentMoniker": "OmranApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\OmranApp\\OmranApp\\Form1.cs [Design]",
+              "RelativeToolTip": "OmranApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:05:52.724Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 179,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
